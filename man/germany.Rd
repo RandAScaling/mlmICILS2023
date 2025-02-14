@@ -3,8 +3,8 @@
 \docType{data}
 \name{germany}
 \alias{germany}
-\title{ICILS 2023 German student and school data}
+\title{ICILS 2023 Germany student and school data}
 \description{
-ICILS 2023 German student and school data
+ICILS 2023 Germany student and school data
 }
 \keyword{data}

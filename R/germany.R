@@ -1,4 +1,4 @@
-#' ICILS 2023 German student and school data
+#' ICILS 2023 Germany student and school data
 #'
 #' @name germany
 #' @docType data
